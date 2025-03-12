@@ -1,84 +1,122 @@
-# Hi there, I'm Vikash! 👋
-<p align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vikash&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Learn+and+Build" alt="Typing SVG">
+</div>
+
+<h2></h2>
+
+<div align="center">
+  <img alt="Night Coding" src="https://github.com/Vikashcodez/Vikashcodez/raw/main/assets/coding.gif" width="350" align="right"/>
+  
+  ### 👨‍💻 About Me
+  
+  🔭 &nbsp; I'm currently working on **Full-Stack Web Applications**\
+  🌱 &nbsp; Exploring **Modern JavaScript Frameworks**\
+  💬 &nbsp; Ask me about **React, Node.js, or Web Development**\
+  ⚡ &nbsp; Fun fact: **Code is like humor. When you have to explain it, it's bad!**
+  
+  <br/>
+  
+  ### 🛠 &nbsp;Tech Stack
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwind-css)&nbsp;
+  ![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+</div>
+
+<h2></h2>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vikashcodez&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vikash's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashcodez&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vikashcodez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikashcodez&show_icons=true&theme=radical" alt="GitHub stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashcodez&theme=radical" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikashcodez&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<div align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikashcodez&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" />
+</div>
 
-## 🛠️ Technologies & Tools
-### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+<br/>
 
-### Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-</p>
+<div align="center"> 
+  <h3>📊 My Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikashcodez&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true" />
+</div>
 
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-</p>
+<br/>
 
-### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+<div align="center">
+  <h3>💻 Current Projects</h3>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">E-Commerce Platform</h3>
+        <p align="center">
+          <a href="https://github.com/Vikashcodez/ecommerce" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff91a4?style=for-the-badge&logo=github&logoColor=black">
+          </a>  
+          <a href="https://yoursite.com/ecommerce" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-8A2BE2?style=for-the-badge&logoColor=white">
+          </a>
+        </p>
+        <p><strong>React, Node.js, Express, MongoDB</strong> - Full-stack e-commerce platform with advanced user authentication and payment integration</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Portfolio Website</h3>
+        <p align="center">
+          <a href="https://github.com/Vikashcodez/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff91a4?style=for-the-badge&logo=github&logoColor=black">
+          </a>  
+          <a href="https://yoursite.com/portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-8A2BE2?style=for-the-badge&logoColor=white">
+          </a>
+        </p>
+        <p><strong>React, TailwindCSS</strong> - Modern portfolio site with animated interactions and dark/light themes</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikashcodez&theme=radical" alt="GitHub Activity Graph">
-</p>
+<br/>
 
-## 💼 Current Projects
-- Building a full-stack e-commerce platform
-- Contributing to open-source JavaScript libraries
-- Developing a personal portfolio website with React
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vikashcodez&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-
-## 🌐 Connect with me
-<p align="center">
+<div align="center">
+  <h3>🌐 Connect with me</h3>
   <a href="https://www.linkedin.com/in/vikashcodez" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/vikashcodez" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
+  <a href="https://github.com/Vikashcodez">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Vikashcodez/Vikashcodez/raw/main/assets/coding.gif" alt="Coding" width="400">
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vikashcodez&color=blueviolet&style=flat-square" alt="Profile Views">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vikashcodez&color=blueviolet&style=for-the-badge&label=Profile+Views" height="30" alt="Profile Views">
+</div>
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! Have a great day!</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
