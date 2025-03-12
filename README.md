@@ -61,37 +61,7 @@
 
 <br/>
 
-<div align="center">
-  <h3>💻 Current Projects</h3>
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">E-Commerce Platform</h3>
-        <p align="center">
-          <a href="https://github.com/Vikashcodez/ecommerce" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff91a4?style=for-the-badge&logo=github&logoColor=black">
-          </a>  
-          <a href="https://yoursite.com/ecommerce" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-8A2BE2?style=for-the-badge&logoColor=white">
-          </a>
-        </p>
-        <p><strong>React, Node.js, Express, MongoDB</strong> - Full-stack e-commerce platform with advanced user authentication and payment integration</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <p align="center">
-          <a href="https://github.com/Vikashcodez/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff91a4?style=for-the-badge&logo=github&logoColor=black">
-          </a>  
-          <a href="https://yoursite.com/portfolio" target="_blank">
-            <img src="https://img.shields.io/badge/LIVE-8A2BE2?style=for-the-badge&logoColor=white">
-          </a>
-        </p>
-        <p><strong>React, TailwindCSS</strong> - Modern portfolio site with animated interactions and dark/light themes</p>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 <br/>
 
