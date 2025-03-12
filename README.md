@@ -1,7 +1,7 @@
 # Hi there, I'm Vikash! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+learn+new+technologies" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Love+to+Learn+and+Build" alt="Typing SVG">
 </p>
 
 ## 📊 GitHub Stats
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
 ### Frameworks & Libraries
@@ -59,4 +61,8 @@
 
 <p align="center">
   <img src="https://github.com/Vikashcodez/Vikashcodez/raw/main/assets/coding.gif" alt="Coding" width="400">
+</p>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Vikashcodez&color=blueviolet)
 </p>
